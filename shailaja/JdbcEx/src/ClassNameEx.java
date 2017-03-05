@@ -8,6 +8,7 @@ public class ClassNameEx {
 		System.out.println(obj.getClass().getName());
 		ClassNameEx t=new ClassNameEx();
 		System.out.println(t.getClass().getName());
+		System.out.println("second git");
 	
 }
 }
